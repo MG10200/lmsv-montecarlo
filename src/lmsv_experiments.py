@@ -28,7 +28,7 @@ from lmsv_monte_carlo import (
     validate_black_scholes_limit,
 )
 
-OUTPUT_DIR = Path("lmsv_results")
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "results"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 
