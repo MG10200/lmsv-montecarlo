@@ -1,5 +1,11 @@
 """
-LMSV Monte Carlo simulation at time t=0.
+Long-Memory Stochastic Volatility Monte Carlo Simulation
+
+Master's Thesis:
+"Long-Memory Stochastic Volatility Models and Fractional Delta Hedging"
+
+Author:
+    Marco Guidi
 
 Requirements:
     numpy
