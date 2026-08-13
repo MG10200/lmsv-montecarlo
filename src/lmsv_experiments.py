@@ -1,3 +1,15 @@
+"""
+Numerical Experiments for the LMSV Monte Carlo Simulation
+
+Master's Thesis:
+"Long-Memory Stochastic Volatility Models and Fractional Delta Hedging"
+
+Author:
+    Marco Guidi
+
+This script reproduces the numerical experiments reported in the thesis.
+"""
+
 from __future__ import annotations
 
 import csv
