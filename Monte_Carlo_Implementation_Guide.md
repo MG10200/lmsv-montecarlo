@@ -1,4 +1,4 @@
-# Technical Guide to the Monte Carlo Implementation
+# Monte Carlo Implementation Guide
 
 ## 1. General structure of the project
 
