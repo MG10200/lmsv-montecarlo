@@ -38,7 +38,6 @@ The theoretical framework is based primarily on the following references:
 ├── results/
 ├── Monte_Carlo_Implementation_Guide.md
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
