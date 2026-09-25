@@ -23,8 +23,8 @@ The framework is subsequently extended to continuously monitored arithmetic Asia
 
 The theoretical framework is based primarily on the following references:
 
-- Comte, F., & Renault, É. (1998). *Long Memory Continuous-Time Models*.
-- Zhao, Z., & Chronopoulou, A. (2023). *Fractional Delta Hedging*.
+* Comte, F., & Renault, É. (1998). Long Memory in Continuous-Time Stochastic Volatility Models.
+* Zhao, Q., & Chronopoulou, A. (2023). Delta-Hedging in Fractional Volatility Models.
 
 ---
 
